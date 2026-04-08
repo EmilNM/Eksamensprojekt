@@ -52,6 +52,8 @@ if(yM >= height-size/2){yKor=yKor-pSpeed}
 }
 
 
+
+
 /*function playerDie() {
 if (yKor >= 373.3 && yKor <= 385 || yKor >= 772.3 && yKor <= 785 || 1==0) { // || means or
   xKor=50;
